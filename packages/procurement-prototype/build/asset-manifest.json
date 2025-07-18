@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/procurement_prototype/static/css/main.a7e44719.css",
+    "main.js": "/procurement_prototype/static/js/main.878b33bf.js",
+    "index.html": "/procurement_prototype/index.html",
+    "main.a7e44719.css.map": "/procurement_prototype/static/css/main.a7e44719.css.map",
+    "main.878b33bf.js.map": "/procurement_prototype/static/js/main.878b33bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7e44719.css",
+    "static/js/main.878b33bf.js"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/procurement-prototype/static/css/main.7deb7e78.css",
+    "main.js": "/procurement-prototype/static/js/main.8ea83438.js",
+    "index.html": "/procurement-prototype/index.html",
+    "main.7deb7e78.css.map": "/procurement-prototype/static/css/main.7deb7e78.css.map",
+    "main.8ea83438.js.map": "/procurement-prototype/static/js/main.8ea83438.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7deb7e78.css",
+    "static/js/main.8ea83438.js"
+  ]
+}
